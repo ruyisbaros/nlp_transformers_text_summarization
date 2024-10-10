@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="py_utils",
+    name="text_summarizer",
     version="0.0.1",
     author="Ahmet Erdonmez",
     author_email="ahmet.erdonmez77@gmail.com",
